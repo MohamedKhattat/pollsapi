@@ -16,6 +16,6 @@ CircleCI-complete-Django-APIs-project :: DEVOPS :: CI
   For more information : https://www.linkedin.com/in/mohamed-habib-khattat-2b206a173/
 
   # deployement
-  - coming soon .....
+  - coming soon
 
   
